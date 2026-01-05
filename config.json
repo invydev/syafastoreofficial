@@ -1,0 +1,15 @@
+{
+  "atlanticApiKey": "QRyBR0QStOJzUvYTuSKEdR6zq8u2TrbmfHihuvfYFUC1CxYKZXpEU45T8ZMWMPwEdTeo8DK9sG7EgwJlwvgIXeC9WArSS7M9hYE8",
+  "pterodactylApiKey": "ptlc_LUQutK707DOdB0lZtL4CDPOw4jCC754NJqRVebu2Egx",
+  "pterodactylPanelUrl": "https://syafaprivate.syafapnl.biz.id",
+  "qrisCallbackUrl": "https://syafastoreofficial/api/webhook",
+  "locationId": 1,
+  "eggId": 15,
+  "packages": [
+    { "id": 1, "name": "1GB Starter", "ram": 1024, "price": 500 },
+    { "id": 2, "name": "2GB Basic", "ram": 2048, "price": 500 },
+    { "id": 3, "name": "4GB Pro", "ram": 4096, "price": 500 },
+    { "id": 4, "name": "8GB Advanced", "ram": 8192, "price": 500 },
+    { "id": 5, "name": "unlimited", "ram": 99999, "price": 1000 }
+  ]
+}
